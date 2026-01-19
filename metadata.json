@@ -1,0 +1,8 @@
+
+{
+  "name": "IMFITNITY Premium Fitness Club",
+  "description": "Premium gym in Villajoyosa, Alicante. Modern equipment, group classes, and a human touch. Your high-performance fitness destination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
